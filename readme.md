@@ -35,7 +35,7 @@ It includes assignments, hands-on projects, and written blogs.
 
 ## Contributions
 Contributions are always welcome!
-See **CONTRIBUTING.md** for ways to get started.
+See [CONTRIBUTING](./CONTRIBUTING)  for ways to get started.
 
 ---
 
