@@ -736,3 +736,45 @@ footer {
 	color: var(--primary-muted);
 	cursor: pointer;
 }
+
+.accesbility {
+	display: flex;
+	align-items: center;
+	gap: 1.5rem;
+}
+
+.mode {
+	padding: 4px 0;
+	padding-left: 8px;
+	padding-right: 12px;
+	background-color: var(--secondary-muted);
+	border: 1px solid var(--border);
+	border-radius: 5rem;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.mode span{
+	padding: 6px 10px;
+}
+
+.system_svg{
+	height: 35px;
+	width: 55px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: var(--foreground);
+	border-radius: 5rem;
+}
+
+.mode img{
+	height: 18px;
+	width: 18px;
+}
+
+select option {
+	background-color: var(--foreground);
+	color: var(--primary-muted);
+}
